@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
                                 //StringWriter writer = new StringWriter();
                                 //IOUtils.copy(responseBody, writer, "UTF-8");
                                 //final String theString = writer.toString();
-                                //unOnUiThread(new Runnable() {
+                                //unOnUiThread(new Runnable() { DHRUV STOP NOW
                                    // @Override
                                    //public void run(){
                                      //   json_data.setText(theString);
